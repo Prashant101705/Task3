@@ -1,0 +1,19 @@
+body{
+  background-color: rgb(244, 134, 79);
+}
+.head{
+  color:  darkblue;
+}
+#bglime{
+  background-color: chartreuse;
+}
+p{
+  color: white;
+}
+#para{
+  color: green;
+}
+strong{
+  color: black;
+  font-size: x-large;
+}
